@@ -1,0 +1,11 @@
+name: neurotech_meetup_shiri
+dependencies:
+  - python=2.7
+  - numpy
+  - scipy
+  - pandas
+  - sklearn
+  - seaborn
+  - matplotlib
+  - pip:
+    - mne
